@@ -1,0 +1,37 @@
+# Flutter
+.dart_tool/
+.flutter-plugins
+.flutter-plugins-dependencies
+.pub-cache/
+.pub/
+/build/
+
+# Platforms
+/ios/
+/macos/
+/web/
+/windows/
+/linux/
+
+# IDE
+.idea/
+.vscode/
+*.iml
+
+# Android
+/android/.gradle
+/android/app/debug
+/android/app/profile
+/android/app/release
+/android/local.properties
+
+# Symbolication
+app.*.symbols
+
+# Obfuscation
+app.*.map.json
+
+# Misc
+*.log
+*.lock
+.DS_Store
